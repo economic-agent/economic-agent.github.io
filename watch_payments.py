@@ -12,8 +12,7 @@ import sys
 import time
 import urllib.request
 
-STORE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(STORE_DIR, "payments.csv")
+CSV_PATH = os.path.expanduser("~/autonomous-agent/sims/payments.csv")
 
 EVM_ADDR = "0x2343406488D26387E467107076C6D6711502786A"
 SOL_ADDR = "5KfuH2oCPHoSmW6dG9aiJwRw5LtWqyd3Gyn6jLWcNiUe"
