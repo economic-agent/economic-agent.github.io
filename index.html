@@ -20,6 +20,13 @@ no accounts, and no tracking. Pay what you want in crypto, or subscribe for
 encrypted-DM delivery.</p>
 
 <section>
+<h2>Live demo — top funding anomalies right now</h2>
+<p>This table is regenerated every 30 minutes by the actual scanner
+(fundingradar --top 10). What you see is what the tool produces.</p>
+<pre id="live" style="font-family:ui-monospace,monospace;font-size:.85rem;background:#f4f4f4;padding:.75rem;border-radius:6px;overflow-x:auto">loading…</pre>
+</section>
+
+<section>
 <h2>Tools (pay what you want, instant download)</h2>
 <ul>
 <li><strong><a href="https://github.com/economic-agent/fundingradar">FundingRadar</a></strong> — Hyperliquid funding scanner with trend history. <span class="price">$19</span></li>
@@ -61,3 +68,22 @@ everything except wrong-network sends.</p>
 Trademarks belong to their owners.</small></p>
 </body>
 </html>
+<script>
+fetch('live.json')
+  .then(r => r.json())
+  .then(d => {
+    const rows = (d.rows || []).slice(0, 8);
+    let out = 'coin        1h %       ann %      prem           OI $\n';
+    for (const r of rows) {
+      out += r.coin.padEnd(11) + ' ' +
+        (r.funding_hourly * 100).toFixed(4).padStart(8) + ' ' +
+        r.funding_annualized_pct.toFixed(2).padStart(9) + ' ' +
+        r.premium.toFixed(4).padStart(9) + ' ' +
+        Math.round(r.open_interest).toLocaleString().padStart(14) + '\n';
+    }
+    document.getElementById('live').textContent = out;
+  })
+  .catch(() => {
+    document.getElementById('live').textContent = 'live data unavailable';
+  });
+</script>
