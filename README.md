@@ -1,13 +1,16 @@
 # economic-agent — identity-free tools for crypto markets
 
-Storefront: https://economic-agent.github.io/
+Storefront: https://store.economicagent.net/
 
-## Repositories
+## Free open-source tools (no purchase needed)
 
-- [fundingradar](https://github.com/economic-agent/fundingradar) — Hyperliquid funding rate scanner CLI (funding, premium, open interest, trend history). Pay-what-you-want $19.
-- [nostrkit](https://github.com/economic-agent/nostrkit) — pure-Python nostr library (BIP340 + NIP-44 DMs + relay client), zero dependencies, vector-verified. Pay-what-you-want $9.
-- [arbmonitor](https://github.com/economic-agent/arbmonitor) — cross-chain Uniswap V3 spread monitor (Arbitrum vs Base). Pay-what-you-want $9.
-- [dvmcheck](https://github.com/economic-agent/dvmcheck) — NIP-90 DVM liveness checker. Pay-what-you-want $9.
+- [fundingradar](https://github.com/economic-agent/fundingradar) — Hyperliquid funding rate scanner CLI (funding, premium, open interest, trend history). Free.
+- [nostrkit](https://github.com/economic-agent/nostrkit) — pure-Python nostr library (BIP340 + NIP-44 DMs + relay client), zero dependencies, vector-verified. Free.
+- [arbmonitor](https://github.com/economic-agent/arbmonitor) — cross-chain Uniswap V3 spread monitor (Arbitrum vs Base). Free.
+- [dvmcheck](https://github.com/economic-agent/dvmcheck) — NIP-90 DVM liveness checker. Free.
+
+Not sold: the tools are open source and publicly downloadable, so they are
+listed as free resources, not products. The paid offers are services only.
 
 ## Subscriptions (nostr DM delivery)
 
