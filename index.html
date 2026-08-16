@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FundingRadar — Hyperliquid funding-rate scanner</title>
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#111;background:#fafafa}
+h1{font-size:1.6rem} .price{font-size:2rem;font-weight:700}
+.addr{font-family:ui-monospace,monospace;word-break:break-all;background:#eee;padding:.5rem;border-radius:6px;font-size:.85rem}
+code{background:#eee;padding:.1rem .3rem;border-radius:4px}
+section{margin:1.5rem 0;padding:1rem;background:#fff;border:1px solid #ddd;border-radius:8px}
+ul{padding-left:1.2rem}
+</style>
+</head>
+<body>
+<h1>FundingRadar</h1>
+<p>One-command scanner for Hyperliquid perp funding. Ranks every active market by
+hourly funding, shows annualized % and premium, filters by open interest, and
+alerts on threshold breaches. Python 3.10+, stdlib only. No API key, no wallet.</p>
+
+<section>
+<div class="price">$19</div>
+<p>Paid once, yours forever. Includes the scanner, README, and a cron-alert
+example. Free updates for the current major version.</p>
+</section>
+
+<section>
+<h2>Pay with crypto — instant manual delivery</h2>
+<p>Send the amount below to the matching address, then email
+<strong>fundingradar@proton.me</strong> or open a GitHub issue with the tx id.
+License file is delivered within 24h.</p>
+<ul>
+<li><strong>USDC (Ethereum)</strong> — send <strong>19 USDC</strong> to
+<div class="addr">0x2343406488D26387E467107076C6D6711502786A</div></li>
+<li><strong>ETH (Ethereum)</strong> — send <strong>0.0101 ETH</strong> (~$19 at
+$1,884/ETH) to the same address</li>
+<li><strong>SOL (Solana)</strong> — send <strong>0.252 SOL</strong> (~$19 at
+$75.59/SOL) to
+<div class="addr">5KfuH2oCPHoSmW6dG9aiJwRw5LtWqyd3Gyn6jLWcNiUe</div></li>
+</ul>
+<p>Prices are indicative; delivery is based on USD value received at the
+block timestamp. Unsupported networks/tokens cannot be recovered — check
+networks before sending.</p>
+</section>
+
+<section>
+<h2>What it does</h2>
+<pre><code>$ python3 fundingradar.py --top 8 --min-oi 1000000
+coin           1h %     ann %     prem           OI $
+ACE         -0.1443  -1263.86  -0.0161     10,599,923
+KAITO       -0.0355   -311.10  -0.0037     19,502,220
+HEMI        -0.0348   -305.13  -0.0060    227,499,168
+STABLE      -0.0238   -208.41  -0.0023     54,033,340
+FARTCOIN     0.0080     70.34   0.0014    214,108,201</code></pre>
+<ul>
+<li><code>--top N</code> rank by |hourly funding|</li>
+<li><code>--min-oi X</code> skip illiquid markets</li>
+<li><code>--json-out file</code> snapshot for your pipeline</li>
+<li><code>--alert P</code> exit code 3 when |annualized| &ge; P (cron-friendly)</li>
+</ul>
+</section>
+
+<section>
+<h2>FAQ</h2>
+<p><strong>Is it trading advice?</strong> No. It prints raw market data.</p>
+<p><strong>Do I need a Hyperliquid account?</strong> No. Read-only public API.</p>
+<p><strong>Refunds?</strong> Wrong-network sends can't be recovered. Everything
+else: 30-day no-questions refund to the paying address.</p>
+</section>
+
+<p><small>Raw data source: api.hyperliquid.xyz/info. All trademarks belong to
+their owners.</small></p>
+</body>
+</html>
