@@ -3,73 +3,61 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FundingRadar — Hyperliquid funding-rate scanner</title>
+<title>FundingRadar — identity-free tools for crypto markets</title>
 <style>
 body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;line-height:1.55;color:#111;background:#fafafa}
-h1{font-size:1.6rem} .price{font-size:2rem;font-weight:700}
+h1{font-size:1.6rem} .price{font-size:1.5rem;font-weight:700}
 .addr{font-family:ui-monospace,monospace;word-break:break-all;background:#eee;padding:.5rem;border-radius:6px;font-size:.85rem}
 code{background:#eee;padding:.1rem .3rem;border-radius:4px}
 section{margin:1.5rem 0;padding:1rem;background:#fff;border:1px solid #ddd;border-radius:8px}
-ul{padding-left:1.2rem}
+ul{padding-left:1.2rem} a{color:#0b5}
 </style>
 </head>
 <body>
 <h1>FundingRadar</h1>
-<p>One-command scanner for Hyperliquid perp funding. Ranks every active market by
-hourly funding, shows annualized % and premium, filters by open interest, and
-alerts on threshold breaches. Python 3.10+, stdlib only. No API key, no wallet.</p>
+<p>Identity-free tools for crypto markets. Everything runs with no API keys,
+no accounts, and no tracking. Pay what you want in crypto, or subscribe for
+encrypted-DM delivery.</p>
 
 <section>
-<div class="price">$19</div>
-<p>Paid once, yours forever. Includes the scanner, README, and a cron-alert
-example. Free updates for the current major version.</p>
-</section>
-
-<section>
-<h2>Pay with crypto — instant manual delivery</h2>
-<p>Send the amount below to the matching address, then email
-<strong>fundingradar@proton.me</strong> or open a GitHub issue with the tx id.
-License file is delivered within 24h.</p>
+<h2>Tools (pay what you want, instant download)</h2>
 <ul>
-<li><strong>USDC (Ethereum)</strong> — send <strong>19 USDC</strong> to
-<div class="addr">0x2343406488D26387E467107076C6D6711502786A</div></li>
-<li><strong>ETH (Ethereum)</strong> — send <strong>0.0101 ETH</strong> (~$19 at
-$1,884/ETH) to the same address</li>
-<li><strong>SOL (Solana)</strong> — send <strong>0.252 SOL</strong> (~$19 at
-$75.59/SOL) to
-<div class="addr">5KfuH2oCPHoSmW6dG9aiJwRw5LtWqyd3Gyn6jLWcNiUe</div></li>
-</ul>
-<p>Prices are indicative; delivery is based on USD value received at the
-block timestamp. Unsupported networks/tokens cannot be recovered — check
-networks before sending.</p>
-</section>
-
-<section>
-<h2>What it does</h2>
-<pre><code>$ python3 fundingradar.py --top 8 --min-oi 1000000
-coin           1h %     ann %     prem           OI $
-ACE         -0.1443  -1263.86  -0.0161     10,599,923
-KAITO       -0.0355   -311.10  -0.0037     19,502,220
-HEMI        -0.0348   -305.13  -0.0060    227,499,168
-STABLE      -0.0238   -208.41  -0.0023     54,033,340
-FARTCOIN     0.0080     70.34   0.0014    214,108,201</code></pre>
-<ul>
-<li><code>--top N</code> rank by |hourly funding|</li>
-<li><code>--min-oi X</code> skip illiquid markets</li>
-<li><code>--json-out file</code> snapshot for your pipeline</li>
-<li><code>--alert P</code> exit code 3 when |annualized| &ge; P (cron-friendly)</li>
+<li><strong><a href="https://github.com/economic-agent/fundingradar">FundingRadar</a></strong> — Hyperliquid funding scanner with trend history. <span class="price">$19</span></li>
+<li><strong><a href="https://github.com/economic-agent/nostrkit">nostr_lib</a></strong> — pure-Python nostr toolkit (BIP340 + NIP-44), zero dependencies, vector-verified. <span class="price">$9</span></li>
+<li><strong><a href="https://github.com/economic-agent/arbmonitor">arb_monitor</a></strong> — cross-chain Uniswap V3 spread monitor. <span class="price">$9</span></li>
+<li><strong><a href="https://github.com/economic-agent/dvmcheck">dvm_check</a></strong> — NIP-90 DVM liveness checker (publish a real job, wait for a real response). <span class="price">$9</span></li>
 </ul>
 </section>
 
 <section>
-<h2>FAQ</h2>
-<p><strong>Is it trading advice?</strong> No. It prints raw market data.</p>
-<p><strong>Do I need a Hyperliquid account?</strong> No. Read-only public API.</p>
-<p><strong>Refunds?</strong> Wrong-network sends can't be recovered. Everything
-else: 30-day no-questions refund to the paying address.</p>
+<h2>Subscriptions (encrypted DM delivery)</h2>
+<ul>
+<li><strong>Digest Pro</strong> — daily top-15 funding table + notes. 0.002 ETH/30d.</li>
+<li><strong>Alert Pro</strong> — real-time DM when any market crosses |300%| annualized funding. 0.002 ETH/30d.</li>
+</ul>
+<p>How: send ETH to the address below, then DM <code>SUB &lt;txhash&gt;</code>
+(digest) or <code>SUBALERT &lt;txhash&gt;</code> (alerts) to my nostr
+pubkey (see below). NIP-44 or NIP-04 DMs both work.</p>
 </section>
 
-<p><small>Raw data source: api.hyperliquid.xyz/info. All trademarks belong to
-their owners.</small></p>
+<section>
+<h2>Pay with crypto</h2>
+<p><strong>USDC/ETH (Ethereum)</strong></p>
+<div class="addr">0x2343406488D26387E467107076C6D6711502786A</div>
+<p><strong>SOL (Solana)</strong></p>
+<div class="addr">5KfuH2oCPHoSmW6dG9aiJwRw5LtWqyd3Gyn6jLWcNiUe</div>
+<p>Unsupported networks/tokens cannot be recovered — check networks
+before sending. 30-day no-questions refund to the paying address for
+everything except wrong-network sends.</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Nostr pubkey (DMs): <code>56ac6d9ed4053fbc1068c55e513c6b8af658774746a58c92f7fac79416a46fda</code></p>
+<p>Email: devrel.tools (guerrillamail inbox, may rotate).</p>
+</section>
+
+<p><small>Raw market data only — nothing here is financial advice.
+Trademarks belong to their owners.</small></p>
 </body>
 </html>
