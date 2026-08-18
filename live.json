@@ -1,203 +1,167 @@
 {
-  "ts": 1787008622,
+  "ts": 1787012221,
   "rows": [
     {
       "exchange": "HL",
       "coin": "ACE",
-      "funding_hourly": -0.0005301176,
-      "funding_annualized_pct": -464.38,
-      "premium": -0.004548,
-      "open_interest": 10561812.6,
-      "mark": 0.1531
+      "funding_hourly": -0.0007719718,
+      "funding_annualized_pct": -676.25,
+      "premium": -0.007106,
+      "open_interest": 10457335.04,
+      "mark": 0.1535
     },
     {
       "exchange": "HL",
       "coin": "STABLE",
-      "funding_hourly": -0.0003294657,
-      "funding_annualized_pct": -288.61,
-      "premium": -0.003633,
-      "open_interest": 48042082.0,
-      "mark": 0.030414
+      "funding_hourly": -0.0002458665,
+      "funding_annualized_pct": -215.38,
+      "premium": -0.002434,
+      "open_interest": 48097882.0,
+      "mark": 0.030291
     },
     {
       "exchange": "HL",
       "coin": "CASHCAT",
-      "funding_hourly": 0.0002500791,
-      "funding_annualized_pct": 219.07,
-      "premium": 0.001831,
-      "open_interest": 154963256.0,
-      "mark": 0.11122
-    },
-    {
-      "exchange": "HL",
-      "coin": "ME",
-      "funding_hourly": -0.0001921467,
-      "funding_annualized_pct": -168.32,
-      "premium": -0.001208,
-      "open_interest": 3078148.6,
-      "mark": 0.05776
-    },
-    {
-      "exchange": "HL",
-      "coin": "XAI",
-      "funding_hourly": -0.0001661093,
-      "funding_annualized_pct": -145.51,
-      "premium": -0.002882,
-      "open_interest": 43202775.8,
-      "mark": 0.00691
+      "funding_hourly": 0.0002429591,
+      "funding_annualized_pct": 212.83,
+      "premium": 0.000622,
+      "open_interest": 152622788.0,
+      "mark": 0.10487
     },
     {
       "exchange": "HL",
       "coin": "KAITO",
-      "funding_hourly": -0.0001025255,
-      "funding_annualized_pct": -89.81,
-      "premium": -0.001566,
-      "open_interest": 16980672.0,
-      "mark": 0.3282
+      "funding_hourly": -0.0001461641,
+      "funding_annualized_pct": -128.04,
+      "premium": -0.001536,
+      "open_interest": 17363510.0,
+      "mark": 0.32219
+    },
+    {
+      "exchange": "HL",
+      "coin": "XAI",
+      "funding_hourly": -0.00011397,
+      "funding_annualized_pct": -99.84,
+      "premium": -0.002894,
+      "open_interest": 43158078.8,
+      "mark": 0.00689
+    },
+    {
+      "exchange": "HL",
+      "coin": "ME",
+      "funding_hourly": -7.25904e-05,
+      "funding_annualized_pct": -63.59,
+      "premium": -0.001735,
+      "open_interest": 3098185.4,
+      "mark": 0.05742
     },
     {
       "exchange": "HL",
       "coin": "S",
-      "funding_hourly": -6.48315e-05,
-      "funding_annualized_pct": -56.79,
-      "premium": -0.00105,
-      "open_interest": 34632296.0,
-      "mark": 0.021847
+      "funding_hourly": -7.21055e-05,
+      "funding_annualized_pct": -63.16,
+      "premium": -0.000686,
+      "open_interest": 34433660.0,
+      "mark": 0.021838
     },
     {
       "exchange": "HL",
       "coin": "ZORA",
-      "funding_hourly": -6.12956e-05,
-      "funding_annualized_pct": -53.69,
-      "premium": -0.001252,
-      "open_interest": 109218734.0,
-      "mark": 0.00478
+      "funding_hourly": -6.50915e-05,
+      "funding_annualized_pct": -57.02,
+      "premium": -0.001255,
+      "open_interest": 109504980.0,
+      "mark": 0.004771
     },
     {
       "exchange": "HL",
       "coin": "FET",
-      "funding_hourly": -5.75558e-05,
-      "funding_annualized_pct": -50.42,
-      "premium": -0.001303,
-      "open_interest": 26783240.0,
-      "mark": 0.12335
+      "funding_hourly": -4.24775e-05,
+      "funding_annualized_pct": -37.21,
+      "premium": -0.000865,
+      "open_interest": 26758368.0,
+      "mark": 0.12349
     },
     {
       "exchange": "HL",
-      "coin": "ZRO",
-      "funding_hourly": 4.80789e-05,
-      "funding_annualized_pct": 42.12,
-      "premium": 0.000683,
-      "open_interest": 32757478.2,
-      "mark": 0.77613
-    },
-    {
-      "exchange": "HL",
-      "coin": "W",
-      "funding_hourly": -4.05874e-05,
-      "funding_annualized_pct": -35.55,
-      "premium": -0.001206,
-      "open_interest": 152327949.4,
-      "mark": 0.00827
-    },
-    {
-      "exchange": "HL",
-      "coin": "ARB",
-      "funding_hourly": -4.02726e-05,
-      "funding_annualized_pct": -35.28,
-      "premium": -0.000934,
-      "open_interest": 53021291.0,
-      "mark": 0.07485
-    },
-    {
-      "exchange": "HL",
-      "coin": "AIXBT",
-      "funding_hourly": -3.88817e-05,
-      "funding_annualized_pct": -34.06,
-      "premium": -0.000397,
-      "open_interest": 28284496.0,
-      "mark": 0.017593
+      "coin": "GALA",
+      "funding_hourly": -4.10927e-05,
+      "funding_annualized_pct": -36.0,
+      "premium": -0.000615,
+      "open_interest": 151127724.0,
+      "mark": 0.001622
     },
     {
       "exchange": "HL",
       "coin": "GMT",
-      "funding_hourly": -3.35931e-05,
-      "funding_annualized_pct": -29.43,
-      "premium": -0.000163,
-      "open_interest": 20491388.0,
-      "mark": 0.006139
+      "funding_hourly": -3.29295e-05,
+      "funding_annualized_pct": -28.85,
+      "premium": -0.001143,
+      "open_interest": 22656228.0,
+      "mark": 0.006112
+    },
+    {
+      "exchange": "HL",
+      "coin": "CC",
+      "funding_hourly": -2.67659e-05,
+      "funding_annualized_pct": -23.45,
+      "premium": -0.000578,
+      "open_interest": 31767302.0,
+      "mark": 0.089878
+    },
+    {
+      "exchange": "HL",
+      "coin": "ARB",
+      "funding_hourly": -2.55928e-05,
+      "funding_annualized_pct": -22.42,
+      "premium": -0.000666,
+      "open_interest": 53319051.8,
+      "mark": 0.07505
+    },
+    {
+      "exchange": "HL",
+      "coin": "STRK",
+      "funding_hourly": -2.53771e-05,
+      "funding_annualized_pct": -22.23,
+      "premium": -0.000869,
+      "open_interest": 98938799.2,
+      "mark": 0.02299
+    },
+    {
+      "exchange": "HL",
+      "coin": "TRUMP",
+      "funding_hourly": -2.53604e-05,
+      "funding_annualized_pct": -22.22,
+      "premium": -0.0009,
+      "open_interest": 4870542.2,
+      "mark": 1.3985
+    },
+    {
+      "exchange": "HL",
+      "coin": "JUP",
+      "funding_hourly": -1.66937e-05,
+      "funding_annualized_pct": -14.62,
+      "premium": -0.000659,
+      "open_interest": 37624818.0,
+      "mark": 0.168284
     },
     {
       "exchange": "HL",
       "coin": "ALGO",
-      "funding_hourly": -3.0885e-05,
-      "funding_annualized_pct": -27.06,
-      "premium": -0.000763,
-      "open_interest": 22719876.0,
-      "mark": 0.07857
-    },
-    {
-      "exchange": "HL",
-      "coin": "TIA",
-      "funding_hourly": -2.42468e-05,
-      "funding_annualized_pct": -21.24,
-      "premium": -0.000165,
-      "open_interest": 4841174.4,
-      "mark": 0.30345
-    },
-    {
-      "exchange": "HL",
-      "coin": "APT",
-      "funding_hourly": -1.94379e-05,
-      "funding_annualized_pct": -17.03,
-      "premium": -0.000562,
-      "open_interest": 6438935.58,
-      "mark": 0.5328
-    },
-    {
-      "exchange": "HL",
-      "coin": "SNX",
-      "funding_hourly": -1.68099e-05,
-      "funding_annualized_pct": -14.73,
-      "premium": -0.000765,
-      "open_interest": 3548708.0,
-      "mark": 0.19569
-    },
-    {
-      "exchange": "HL",
-      "coin": "PROVE",
-      "funding_hourly": -1.62558e-05,
-      "funding_annualized_pct": -14.24,
-      "premium": -0.000914,
-      "open_interest": 1060996.0,
-      "mark": 0.149601
-    },
-    {
-      "exchange": "HL",
-      "coin": "2Z",
-      "funding_hourly": -1.47085e-05,
-      "funding_annualized_pct": -12.88,
-      "premium": -0.000758,
-      "open_interest": 11743544.0,
-      "mark": 0.04872
-    },
-    {
-      "exchange": "HL",
-      "coin": "ALT",
-      "funding_hourly": -1.27402e-05,
-      "funding_annualized_pct": -11.16,
-      "premium": -0.000672,
-      "open_interest": 108676092.0,
-      "mark": 0.005943
+      "funding_hourly": -1.27082e-05,
+      "funding_annualized_pct": -11.13,
+      "premium": -0.00046,
+      "open_interest": 22765544.0,
+      "mark": 0.078117
     },
     {
       "exchange": "HL",
       "coin": "ATOM",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000634,
-      "open_interest": 1181849.58,
-      "mark": 1.417
+      "premium": -0.000567,
+      "open_interest": 1183069.28,
+      "mark": 1.4088
     },
     {
       "exchange": "HL",
@@ -205,8 +169,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 17690274.4,
-      "mark": 0.09997
+      "open_interest": 17702419.2,
+      "mark": 0.09987
+    },
+    {
+      "exchange": "HL",
+      "coin": "SOL",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000421,
+      "open_interest": 5100263.94,
+      "mark": 75.993
+    },
+    {
+      "exchange": "HL",
+      "coin": "AVAX",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000472,
+      "open_interest": 1946169.14,
+      "mark": 6.3467
     },
     {
       "exchange": "HL",
@@ -214,35 +196,44 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 6193386.0,
-      "mark": 0.12453
+      "open_interest": 6194853.2,
+      "mark": 0.12445
+    },
+    {
+      "exchange": "HL",
+      "coin": "OP",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000356,
+      "open_interest": 37094077.8,
+      "mark": 0.08415
     },
     {
       "exchange": "HL",
       "coin": "DOGE",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 5.7e-05,
-      "open_interest": 460638668.0,
-      "mark": 0.070253
+      "premium": 0.0,
+      "open_interest": 495147184.0,
+      "mark": 0.070407
     },
     {
       "exchange": "HL",
       "coin": "SUI",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -8.9e-05,
-      "open_interest": 37109428.0,
-      "mark": 0.67421
+      "premium": -0.000133,
+      "open_interest": 37197734.8,
+      "mark": 0.67526
     },
     {
       "exchange": "HL",
       "coin": "kPEPE",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000773,
-      "open_interest": 4951349830.0,
-      "mark": 0.002586
+      "premium": 0.0,
+      "open_interest": 4941887992.0,
+      "mark": 0.002587
     },
     {
       "exchange": "HL",
@@ -250,17 +241,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 41923929.2,
-      "mark": 0.2413
+      "open_interest": 42311604.2,
+      "mark": 0.24194
     },
     {
       "exchange": "HL",
       "coin": "LDO",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000295,
-      "open_interest": 27390265.2,
-      "mark": 0.30443
+      "premium": -0.000197,
+      "open_interest": 27394269.8,
+      "mark": 0.30492
     },
     {
       "exchange": "HL",
@@ -268,8 +259,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 7537293.6,
-      "mark": 0.12106
+      "open_interest": 7750976.8,
+      "mark": 0.12045
     },
     {
       "exchange": "HL",
@@ -277,8 +268,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 34407616.0,
-      "mark": 0.042159
+      "open_interest": 34392824.0,
+      "mark": 0.04209
+    },
+    {
+      "exchange": "HL",
+      "coin": "APT",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000188,
+      "open_interest": 6330188.34,
+      "mark": 0.5313
+    },
+    {
+      "exchange": "HL",
+      "coin": "WLD",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000292,
+      "open_interest": 82408537.0,
+      "mark": 0.34269
     },
     {
       "exchange": "HL",
@@ -286,17 +295,35 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 10103900.0,
-      "mark": 0.019675
+      "open_interest": 10071556.0,
+      "mark": 0.01962
+    },
+    {
+      "exchange": "HL",
+      "coin": "kSHIB",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000223,
+      "open_interest": 504066356.0,
+      "mark": 0.004474
     },
     {
       "exchange": "HL",
       "coin": "UNI",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 5984788.2,
-      "mark": 3.2823
+      "premium": -1.5e-05,
+      "open_interest": 5983413.0,
+      "mark": 3.2785
+    },
+    {
+      "exchange": "HL",
+      "coin": "SEI",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000378,
+      "open_interest": 33556010.0,
+      "mark": 0.03969
     },
     {
       "exchange": "HL",
@@ -304,26 +331,35 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 3476762.4,
-      "mark": 0.41736
+      "open_interest": 3477802.8,
+      "mark": 0.41702
+    },
+    {
+      "exchange": "HL",
+      "coin": "ZRO",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": 0.000555,
+      "open_interest": 32682055.2,
+      "mark": 0.77592
     },
     {
       "exchange": "HL",
       "coin": "DOT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000394,
-      "open_interest": 5649578.2,
-      "mark": 0.76035
+      "premium": -0.000289,
+      "open_interest": 5674606.0,
+      "mark": 0.75997
     },
     {
       "exchange": "HL",
       "coin": "BIGTIME",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 40549600.0,
-      "mark": 0.005237
+      "premium": -0.000192,
+      "open_interest": 37977714.0,
+      "mark": 0.0052
     },
     {
       "exchange": "HL",
@@ -331,53 +367,53 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 37791340.0,
-      "mark": 0.025617
+      "open_interest": 37723626.0,
+      "mark": 0.025661
     },
     {
       "exchange": "HL",
       "coin": "BLUR",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 56028170.0,
-      "mark": 0.013101
+      "premium": -7.6e-05,
+      "open_interest": 55805478.0,
+      "mark": 0.013086
     },
     {
       "exchange": "HL",
       "coin": "MINA",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.001035,
-      "open_interest": 17602164.0,
-      "mark": 0.039511
+      "premium": -0.000177,
+      "open_interest": 17581292.0,
+      "mark": 0.03953
     },
     {
       "exchange": "HL",
       "coin": "POLYX",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.00035,
-      "open_interest": 3044056.0,
-      "mark": 0.028547
+      "premium": 0.0,
+      "open_interest": 3060530.0,
+      "mark": 0.028496
     },
     {
       "exchange": "HL",
       "coin": "PENDLE",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000496,
-      "open_interest": 4658788.0,
-      "mark": 1.3303
+      "premium": -6.9e-05,
+      "open_interest": 4653488.0,
+      "mark": 1.3244
     },
     {
       "exchange": "HL",
       "coin": "NEAR",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000453,
-      "open_interest": 27898401.8,
-      "mark": 1.6334
+      "premium": -0.000286,
+      "open_interest": 27867427.2,
+      "mark": 1.6399
     },
     {
       "exchange": "HL",
@@ -394,26 +430,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 44840048.0,
-      "mark": 0.038534
+      "open_interest": 44853220.0,
+      "mark": 0.038529
+    },
+    {
+      "exchange": "HL",
+      "coin": "SUSHI",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000124,
+      "open_interest": 2067207.2,
+      "mark": 0.16064
     },
     {
       "exchange": "HL",
       "coin": "IMX",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 7974428.0,
-      "mark": 0.10626
-    },
-    {
-      "exchange": "HL",
-      "coin": "kBONK",
-      "funding_hourly": 1.25e-05,
-      "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 2317987708.0,
-      "mark": 0.002317
+      "premium": -0.000283,
+      "open_interest": 7913447.6,
+      "mark": 0.10588
     },
     {
       "exchange": "HL",
@@ -421,8 +457,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 4002966.0,
-      "mark": 0.08646
+      "open_interest": 4006636.0,
+      "mark": 0.086412
     },
     {
       "exchange": "HL",
@@ -430,8 +466,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 5114258.0,
-      "mark": 0.047526
+      "open_interest": 5130534.0,
+      "mark": 0.047621
     },
     {
       "exchange": "HL",
@@ -439,35 +475,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 129206686.0,
-      "mark": 0.001157
-    },
-    {
-      "exchange": "HL",
-      "coin": "JTO",
-      "funding_hourly": 1.25e-05,
-      "funding_annualized_pct": 10.95,
-      "premium": -0.000869,
-      "open_interest": 10693702.0,
-      "mark": 0.58055
+      "open_interest": 129513132.0,
+      "mark": 0.001165
     },
     {
       "exchange": "HL",
       "coin": "WIF",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -3.6e-05,
-      "open_interest": 13496994.0,
-      "mark": 0.137237
+      "premium": -0.000152,
+      "open_interest": 13520124.0,
+      "mark": 0.13782
     },
     {
       "exchange": "HL",
       "coin": "PEOPLE",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000422,
-      "open_interest": 320855530.0,
-      "mark": 0.007116
+      "premium": 0.000141,
+      "open_interest": 320833834.0,
+      "mark": 0.007123
     },
     {
       "exchange": "HL",
@@ -475,8 +502,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 3661008.0,
-      "mark": 0.0568
+      "open_interest": 3651993.2,
+      "mark": 0.05667
     },
     {
       "exchange": "HL",
@@ -484,17 +511,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 1132542.4,
-      "mark": 0.31917
+      "open_interest": 1132170.0,
+      "mark": 0.31959
     },
     {
       "exchange": "HL",
       "coin": "ONDO",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000246,
-      "open_interest": 42809844.0,
-      "mark": 0.33415
+      "premium": 0.0,
+      "open_interest": 42945614.0,
+      "mark": 0.33566
+    },
+    {
+      "exchange": "HL",
+      "coin": "ZETA",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": 0.0,
+      "open_interest": 21921404.6,
+      "mark": 0.02738
     },
     {
       "exchange": "HL",
@@ -502,8 +538,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 8245049.8,
-      "mark": 0.01447
+      "open_interest": 8166666.2,
+      "mark": 0.01443
+    },
+    {
+      "exchange": "HL",
+      "coin": "W",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": 0.0,
+      "open_interest": 151987736.0,
+      "mark": 0.00821
+    },
+    {
+      "exchange": "HL",
+      "coin": "kFLOKI",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000445,
+      "open_interest": 27365740.0,
+      "mark": 0.02021
     },
     {
       "exchange": "HL",
@@ -511,8 +565,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 3272583452.0,
-      "mark": 0.000778
+      "open_interest": 3272399584.0,
+      "mark": 0.000783
     },
     {
       "exchange": "HL",
@@ -520,26 +574,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 24384013.0,
-      "mark": 0.4978
+      "open_interest": 24355729.0,
+      "mark": 0.49774
     },
     {
       "exchange": "HL",
       "coin": "ENA",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000301,
-      "open_interest": 260117014.0,
-      "mark": 0.082923
+      "premium": -0.000348,
+      "open_interest": 260005850.0,
+      "mark": 0.083185
     },
     {
       "exchange": "HL",
       "coin": "MNT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.00025,
-      "open_interest": 4307229.8,
-      "mark": 0.43955
+      "premium": 0.0,
+      "open_interest": 4267393.4,
+      "mark": 0.44012
     },
     {
       "exchange": "HL",
@@ -547,8 +601,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 1876435.2,
-      "mark": 0.03156
+      "open_interest": 1863689.2,
+      "mark": 0.03152
     },
     {
       "exchange": "HL",
@@ -556,8 +610,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 78525560.6,
-      "mark": 0.01351
+      "open_interest": 78530923.6,
+      "mark": 0.01355
     },
     {
       "exchange": "HL",
@@ -565,26 +619,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 21009778.0,
-      "mark": 0.018438
+      "open_interest": 20998074.0,
+      "mark": 0.018441
     },
     {
       "exchange": "HL",
       "coin": "HBAR",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000348,
-      "open_interest": 50249924.0,
-      "mark": 0.065989
+      "premium": -0.000197,
+      "open_interest": 50284362.0,
+      "mark": 0.066055
     },
     {
       "exchange": "HL",
       "coin": "POPCAT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 22057790.0,
-      "mark": 0.04112
+      "premium": -0.000389,
+      "open_interest": 22064270.0,
+      "mark": 0.041045
     },
     {
       "exchange": "HL",
@@ -592,8 +646,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 25828116.36,
-      "mark": 0.1699
+      "open_interest": 25823882.14,
+      "mark": 0.171
     },
     {
       "exchange": "HL",
@@ -601,8 +655,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 131761072.0,
-      "mark": 0.002725
+      "open_interest": 131847458.0,
+      "mark": 0.002707
     },
     {
       "exchange": "HL",
@@ -610,17 +664,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 625360090.0,
-      "mark": 0.000381
+      "open_interest": 623912628.0,
+      "mark": 0.000382
     },
     {
       "exchange": "HL",
       "coin": "TURBO",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.001294,
-      "open_interest": 476537596.0,
-      "mark": 0.000772
+      "premium": 0.0,
+      "open_interest": 476406874.0,
+      "mark": 0.00077
     },
     {
       "exchange": "HL",
@@ -628,8 +682,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 71319728.0,
-      "mark": 0.003742
+      "open_interest": 71312692.0,
+      "mark": 0.003777
     },
     {
       "exchange": "HL",
@@ -637,35 +691,35 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 3899102.4,
-      "mark": 0.11178
+      "open_interest": 3902869.4,
+      "mark": 0.11256
     },
     {
       "exchange": "HL",
       "coin": "ZK",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000391,
-      "open_interest": 86323706.0,
-      "mark": 0.007653
+      "premium": -0.000263,
+      "open_interest": 86323596.0,
+      "mark": 0.007587
     },
     {
       "exchange": "HL",
       "coin": "RENDER",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 1275895.4,
-      "mark": 1.2746
+      "premium": -7.1e-05,
+      "open_interest": 1270906.0,
+      "mark": 1.2731
     },
     {
       "exchange": "HL",
       "coin": "POL",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000238,
-      "open_interest": 33987898.0,
-      "mark": 0.079839
+      "premium": -0.000113,
+      "open_interest": 34255778.0,
+      "mark": 0.079786
     },
     {
       "exchange": "HL",
@@ -673,8 +727,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 2823854.0,
-      "mark": 0.059061
+      "open_interest": 2829074.0,
+      "mark": 0.05899
     },
     {
       "exchange": "HL",
@@ -682,17 +736,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 1098569650.0,
-      "mark": 0.000176
+      "open_interest": 1091791982.0,
+      "mark": 0.000175
     },
     {
       "exchange": "HL",
       "coin": "kNEIRO",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000318,
-      "open_interest": 2109284.2,
-      "mark": 0.06285
+      "premium": -0.000317,
+      "open_interest": 2108771.6,
+      "mark": 0.06303
     },
     {
       "exchange": "HL",
@@ -700,26 +754,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 12695936.0,
-      "mark": 0.012735
+      "open_interest": 12738548.0,
+      "mark": 0.012707
     },
     {
       "exchange": "HL",
       "coin": "MOODENG",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -8.5e-05,
-      "open_interest": 6241024.0,
-      "mark": 0.035168
+      "premium": -0.000227,
+      "open_interest": 6236722.0,
+      "mark": 0.035223
     },
     {
       "exchange": "HL",
       "coin": "GRASS",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000217,
-      "open_interest": 22348705.4,
-      "mark": 0.32227
+      "premium": 0.0,
+      "open_interest": 22327052.4,
+      "mark": 0.32241
     },
     {
       "exchange": "HL",
@@ -727,44 +781,53 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 85187664.0,
-      "mark": 0.072689
+      "open_interest": 85081142.0,
+      "mark": 0.073221
     },
     {
       "exchange": "HL",
       "coin": "PNUT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000486,
-      "open_interest": 11502328.4,
-      "mark": 0.0411
+      "premium": 0.0,
+      "open_interest": 11515671.8,
+      "mark": 0.04107
+    },
+    {
+      "exchange": "HL",
+      "coin": "XLM",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": -0.000361,
+      "open_interest": 37899300.0,
+      "mark": 0.15788
     },
     {
       "exchange": "HL",
       "coin": "SAND",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.00023,
-      "open_interest": 11303100.0,
-      "mark": 0.03907
+      "premium": 0.0,
+      "open_interest": 11215550.0,
+      "mark": 0.039184
     },
     {
       "exchange": "HL",
       "coin": "IOTA",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -3.1e-05,
-      "open_interest": 12026000.0,
-      "mark": 0.032595
+      "premium": 0.0,
+      "open_interest": 12005362.0,
+      "mark": 0.032622
     },
     {
       "exchange": "HL",
       "coin": "HYPE",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000397,
-      "open_interest": 22559720.98,
-      "mark": 59.23
+      "premium": -0.00037,
+      "open_interest": 22552149.8,
+      "mark": 59.497
     },
     {
       "exchange": "HL",
@@ -772,26 +835,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 80906088.0,
-      "mark": 0.006237
+      "open_interest": 81490028.0,
+      "mark": 0.00616
     },
     {
       "exchange": "HL",
       "coin": "VIRTUAL",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 13456204.2,
-      "mark": 0.58263
+      "premium": -0.000103,
+      "open_interest": 13427323.4,
+      "mark": 0.58067
     },
     {
       "exchange": "HL",
       "coin": "PENGU",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000167,
-      "open_interest": 888415486.0,
-      "mark": 0.005996
+      "premium": -0.000166,
+      "open_interest": 892300666.0,
+      "mark": 0.006024
     },
     {
       "exchange": "HL",
@@ -799,17 +862,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 27414478.6,
-      "mark": 0.00887
+      "open_interest": 27586345.2,
+      "mark": 0.00889
     },
     {
       "exchange": "HL",
       "coin": "FARTCOIN",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000627,
-      "open_interest": 213910527.0,
-      "mark": 0.14375
+      "premium": 0.000276,
+      "open_interest": 215365568.2,
+      "mark": 0.14525
     },
     {
       "exchange": "HL",
@@ -817,8 +880,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 29002322.0,
-      "mark": 0.024616
+      "open_interest": 28968624.0,
+      "mark": 0.024598
     },
     {
       "exchange": "HL",
@@ -826,26 +889,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 81293210.0,
-      "mark": 0.012176
+      "open_interest": 81280354.0,
+      "mark": 0.012116
     },
     {
       "exchange": "HL",
       "coin": "SPX",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 3.1e-05,
-      "open_interest": 7513874.8,
-      "mark": 0.31913
+      "premium": 0.0,
+      "open_interest": 7492161.0,
+      "mark": 0.31759
     },
     {
       "exchange": "HL",
       "coin": "MORPHO",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000113,
-      "open_interest": 2159610.0,
-      "mark": 2.1196
+      "premium": 0.0,
+      "open_interest": 2167103.0,
+      "mark": 2.1258
     },
     {
       "exchange": "HL",
@@ -853,8 +916,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 10115176.0,
-      "mark": 0.0702
+      "open_interest": 10061528.6,
+      "mark": 0.07005
     },
     {
       "exchange": "HL",
@@ -862,8 +925,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 63389534.0,
-      "mark": 0.002399
+      "open_interest": 62833038.0,
+      "mark": 0.002397
     },
     {
       "exchange": "HL",
@@ -871,44 +934,44 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 53564478.0,
-      "mark": 0.006508
+      "open_interest": 53382332.0,
+      "mark": 0.006525
     },
     {
       "exchange": "HL",
       "coin": "VVV",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000159,
-      "open_interest": 1378125.08,
-      "mark": 13.24
+      "premium": 0.0,
+      "open_interest": 1369695.98,
+      "mark": 13.269
     },
     {
       "exchange": "HL",
       "coin": "BERA",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 9277138.0,
-      "mark": 0.1509
+      "premium": -0.000201,
+      "open_interest": 9276754.0,
+      "mark": 0.14873
     },
     {
       "exchange": "HL",
       "coin": "LAYER",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -9.9e-05,
-      "open_interest": 11516160.0,
-      "mark": 0.060369
+      "premium": 0.0,
+      "open_interest": 11515526.0,
+      "mark": 0.060367
     },
     {
       "exchange": "HL",
       "coin": "NIL",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 15969684.0,
-      "mark": 0.047431
+      "premium": -0.000311,
+      "open_interest": 15780584.0,
+      "mark": 0.048121
     },
     {
       "exchange": "HL",
@@ -916,8 +979,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 15071956.0,
-      "mark": 0.010014
+      "open_interest": 15165248.0,
+      "mark": 0.010031
     },
     {
       "exchange": "HL",
@@ -925,8 +988,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 1634682.0,
-      "mark": 0.033275
+      "open_interest": 1662502.0,
+      "mark": 0.033136
     },
     {
       "exchange": "HL",
@@ -934,8 +997,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 3164422.0,
-      "mark": 0.062521
+      "open_interest": 3211836.0,
+      "mark": 0.062178
     },
     {
       "exchange": "HL",
@@ -943,26 +1006,26 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 6639296.0,
-      "mark": 0.051526
+      "open_interest": 6643268.0,
+      "mark": 0.051351
     },
     {
       "exchange": "HL",
       "coin": "NXPC",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -8.3e-05,
-      "open_interest": 1636654.0,
-      "mark": 0.20531
+      "premium": 0.0,
+      "open_interest": 1656428.0,
+      "mark": 0.204067
     },
     {
       "exchange": "HL",
       "coin": "SOPH",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.001471,
-      "open_interest": 33846632.0,
-      "mark": 0.003393
+      "premium": -0.001192,
+      "open_interest": 32732798.0,
+      "mark": 0.00335
     },
     {
       "exchange": "HL",
@@ -970,8 +1033,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 17762678.0,
-      "mark": 0.016981
+      "open_interest": 17746150.0,
+      "mark": 0.016896
     },
     {
       "exchange": "HL",
@@ -979,7 +1042,7 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 14961726.0,
+      "open_interest": 14948982.0,
       "mark": 0.16608
     },
     {
@@ -988,26 +1051,35 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 30830432246.0,
-      "mark": 0.00275
+      "open_interest": 31036348066.0,
+      "mark": 0.002766
+    },
+    {
+      "exchange": "HL",
+      "coin": "PROVE",
+      "funding_hourly": 1.25e-05,
+      "funding_annualized_pct": 10.95,
+      "premium": 0.0,
+      "open_interest": 1056570.0,
+      "mark": 0.14973
     },
     {
       "exchange": "HL",
       "coin": "XPL",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000184,
-      "open_interest": 269695648.0,
-      "mark": 0.076047
+      "premium": -0.000249,
+      "open_interest": 269659660.0,
+      "mark": 0.076246
     },
     {
       "exchange": "HL",
       "coin": "WLFI",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000379,
-      "open_interest": 219040944.0,
-      "mark": 0.060659
+      "premium": -0.000214,
+      "open_interest": 219079916.0,
+      "mark": 0.060719
     },
     {
       "exchange": "HL",
@@ -1015,8 +1087,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 488770610.0,
-      "mark": 0.002142
+      "open_interest": 488838660.0,
+      "mark": 0.00214
     },
     {
       "exchange": "HL",
@@ -1024,8 +1096,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 34065676.0,
-      "mark": 0.054143
+      "open_interest": 33786760.0,
+      "mark": 0.053883
     },
     {
       "exchange": "HL",
@@ -1033,17 +1105,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 22524554.0,
-      "mark": 0.600865
+      "open_interest": 22515772.0,
+      "mark": 0.601086
     },
     {
       "exchange": "HL",
       "coin": "AVNT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -1.1e-05,
-      "open_interest": 6377430.0,
-      "mark": 0.09388
+      "premium": 0.0,
+      "open_interest": 5976788.0,
+      "mark": 0.093288
     },
     {
       "exchange": "HL",
@@ -1051,8 +1123,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 83269382.0,
-      "mark": 0.026854
+      "open_interest": 83408930.0,
+      "mark": 0.026874
     },
     {
       "exchange": "HL",
@@ -1060,35 +1132,35 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 240613216.0,
-      "mark": 0.006955
+      "open_interest": 241778094.0,
+      "mark": 0.0069
     },
     {
       "exchange": "HL",
       "coin": "APEX",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 3337496.0,
-      "mark": 0.1822
+      "premium": -0.000137,
+      "open_interest": 3342226.0,
+      "mark": 0.18241
     },
     {
       "exchange": "HL",
       "coin": "MON",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.0,
-      "open_interest": 1281672152.0,
-      "mark": 0.021207
+      "premium": 0.000829,
+      "open_interest": 1354740388.0,
+      "mark": 0.021746
     },
     {
       "exchange": "HL",
       "coin": "MET",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000123,
-      "open_interest": 11442592.0,
-      "mark": 0.16266
+      "premium": 0.0,
+      "open_interest": 11434128.0,
+      "mark": 0.16263
     },
     {
       "exchange": "HL",
@@ -1096,26 +1168,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 79460984.0,
-      "mark": 0.032141
+      "open_interest": 81175782.0,
+      "mark": 0.032313
     },
     {
       "exchange": "HL",
       "coin": "ICP",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": 0.000297,
-      "open_interest": 1058365.6,
-      "mark": 2.2555
-    },
-    {
-      "exchange": "HL",
-      "coin": "AERO",
-      "funding_hourly": 1.25e-05,
-      "funding_annualized_pct": 10.95,
-      "premium": -0.000526,
-      "open_interest": 18881622.0,
-      "mark": 0.4083
+      "premium": 0.000287,
+      "open_interest": 1062275.4,
+      "mark": 2.2638
     },
     {
       "exchange": "HL",
@@ -1123,17 +1186,17 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 46670846.0,
-      "mark": 0.008249
+      "open_interest": 46705592.0,
+      "mark": 0.008226
     },
     {
       "exchange": "HL",
       "coin": "LIT",
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
-      "premium": -0.000497,
-      "open_interest": 35889070.0,
-      "mark": 2.337
+      "premium": 0.0,
+      "open_interest": 35961302.0,
+      "mark": 2.331
     },
     {
       "exchange": "HL",
@@ -1141,8 +1204,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 30839148.0,
-      "mark": 0.007017
+      "open_interest": 30737764.0,
+      "mark": 0.007049
     },
     {
       "exchange": "HL",
@@ -1150,8 +1213,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 40734890.0,
-      "mark": 0.011655
+      "open_interest": 40752142.0,
+      "mark": 0.011669
     },
     {
       "exchange": "HL",
@@ -1159,8 +1222,8 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 138910912.0,
-      "mark": 0.027672
+      "open_interest": 138819664.0,
+      "mark": 0.027733
     },
     {
       "exchange": "HL",
@@ -1168,188 +1231,125 @@
       "funding_hourly": 1.25e-05,
       "funding_annualized_pct": 10.95,
       "premium": 0.0,
-      "open_interest": 10028020.0,
+      "open_interest": 10026402.0,
       "mark": 1.327
     },
     {
       "exchange": "HL",
-      "coin": "LINK",
-      "funding_hourly": 1.21538e-05,
-      "funding_annualized_pct": 10.65,
-      "premium": -0.000418,
-      "open_interest": 4800677.4,
-      "mark": 9.5022
+      "coin": "AERO",
+      "funding_hourly": 1.12985e-05,
+      "funding_annualized_pct": 9.9,
+      "premium": -0.000475,
+      "open_interest": 18876492.0,
+      "mark": 0.408
     },
     {
       "exchange": "HL",
-      "coin": "OP",
-      "funding_hourly": 1.19798e-05,
-      "funding_annualized_pct": 10.49,
-      "premium": -0.000238,
-      "open_interest": 37167167.8,
-      "mark": 0.08409
+      "coin": "TIA",
+      "funding_hourly": 1.11928e-05,
+      "funding_annualized_pct": 9.8,
+      "premium": -0.000628,
+      "open_interest": 4838208.0,
+      "mark": 0.30222
     },
     {
       "exchange": "HL",
-      "coin": "STRK",
-      "funding_hourly": -1.18796e-05,
-      "funding_annualized_pct": -10.41,
-      "premium": -0.000435,
-      "open_interest": 98876637.2,
-      "mark": 0.02297
-    },
-    {
-      "exchange": "HL",
-      "coin": "XLM",
-      "funding_hourly": 1.06811e-05,
-      "funding_annualized_pct": 9.36,
-      "premium": -0.000444,
-      "open_interest": 37789946.0,
-      "mark": 0.15746
-    },
-    {
-      "exchange": "HL",
-      "coin": "FIL",
-      "funding_hourly": -8.5823e-06,
-      "funding_annualized_pct": -7.52,
-      "premium": -0.000625,
-      "open_interest": 3009414.6,
-      "mark": 0.67184
-    },
-    {
-      "exchange": "HL",
-      "coin": "kFLOKI",
-      "funding_hourly": -8.0243e-06,
-      "funding_annualized_pct": -7.03,
-      "premium": -0.000642,
-      "open_interest": 27357098.0,
-      "mark": 0.020215
-    },
-    {
-      "exchange": "HL",
-      "coin": "SUSHI",
-      "funding_hourly": 7.8625e-06,
-      "funding_annualized_pct": 6.89,
-      "premium": -0.000371,
-      "open_interest": 2063134.2,
-      "mark": 0.16129
-    },
-    {
-      "exchange": "HL",
-      "coin": "GALA",
-      "funding_hourly": -7.7787e-06,
-      "funding_annualized_pct": -6.81,
-      "premium": -0.000614,
-      "open_interest": 151034144.0,
-      "mark": 0.001626
-    },
-    {
-      "exchange": "HL",
-      "coin": "XRP",
-      "funding_hourly": -7.5462e-06,
-      "funding_annualized_pct": -6.61,
-      "premium": -0.000549,
-      "open_interest": 107950192.0,
-      "mark": 1.0015
-    },
-    {
-      "exchange": "HL",
-      "coin": "AVAX",
-      "funding_hourly": 7.2296e-06,
-      "funding_annualized_pct": 6.33,
-      "premium": -0.000506,
-      "open_interest": 1947780.82,
-      "mark": 6.325
-    },
-    {
-      "exchange": "HL",
-      "coin": "kSHIB",
-      "funding_hourly": -6.557e-06,
-      "funding_annualized_pct": -5.74,
-      "premium": -0.000671,
-      "open_interest": 499072180.0,
-      "mark": 0.004466
-    },
-    {
-      "exchange": "HL",
-      "coin": "ZETA",
-      "funding_hourly": -6.2756e-06,
-      "funding_annualized_pct": -5.5,
-      "premium": -0.000364,
-      "open_interest": 21894800.2,
-      "mark": 0.02745
-    },
-    {
-      "exchange": "HL",
-      "coin": "SEI",
-      "funding_hourly": 6.0657e-06,
-      "funding_annualized_pct": 5.31,
-      "premium": -0.000428,
-      "open_interest": 33609226.0,
-      "mark": 0.039724
-    },
-    {
-      "exchange": "HL",
-      "coin": "SOL",
-      "funding_hourly": 4.4759e-06,
-      "funding_annualized_pct": 3.92,
-      "premium": -0.000422,
-      "open_interest": 5097882.94,
-      "mark": 75.82
-    },
-    {
-      "exchange": "HL",
-      "coin": "JUP",
-      "funding_hourly": 4.1634e-06,
-      "funding_annualized_pct": 3.65,
-      "premium": -0.000382,
-      "open_interest": 37577150.0,
-      "mark": 0.16766
-    },
-    {
-      "exchange": "HL",
-      "coin": "WLD",
-      "funding_hourly": 4.0567e-06,
-      "funding_annualized_pct": 3.55,
-      "premium": -0.000672,
-      "open_interest": 82803630.6,
-      "mark": 0.3419
+      "coin": "2Z",
+      "funding_hourly": 1.01146e-05,
+      "funding_annualized_pct": 8.86,
+      "premium": -0.000432,
+      "open_interest": 11764522.0,
+      "mark": 0.048599
     },
     {
       "exchange": "HL",
       "coin": "ADA",
-      "funding_hourly": 2.066e-07,
-      "funding_annualized_pct": 0.18,
-      "premium": -0.000586,
-      "open_interest": 168466964.0,
-      "mark": 0.17382
+      "funding_hourly": -8.1545e-06,
+      "funding_annualized_pct": -7.14,
+      "premium": -0.00046,
+      "open_interest": 168310080.0,
+      "mark": 0.17398
+    },
+    {
+      "exchange": "HL",
+      "coin": "kBONK",
+      "funding_hourly": 8.1295e-06,
+      "funding_annualized_pct": 7.12,
+      "premium": -0.000861,
+      "open_interest": 2316912216.0,
+      "mark": 0.002322
+    },
+    {
+      "exchange": "HL",
+      "coin": "ALT",
+      "funding_hourly": 7.8373e-06,
+      "funding_annualized_pct": 6.87,
+      "premium": -0.000841,
+      "open_interest": 108747576.0,
+      "mark": 0.005936
+    },
+    {
+      "exchange": "HL",
+      "coin": "SNX",
+      "funding_hourly": 4.9296e-06,
+      "funding_annualized_pct": 4.32,
+      "premium": -0.001123,
+      "open_interest": 3555287.8,
+      "mark": 0.19543
+    },
+    {
+      "exchange": "HL",
+      "coin": "XRP",
+      "funding_hourly": 4.2918e-06,
+      "funding_annualized_pct": 3.76,
+      "premium": -0.000498,
+      "open_interest": 107949184.0,
+      "mark": 1.0035
+    },
+    {
+      "exchange": "HL",
+      "coin": "LINK",
+      "funding_hourly": 3.2199e-06,
+      "funding_annualized_pct": 2.82,
+      "premium": -0.000401,
+      "open_interest": 4800977.4,
+      "mark": 9.505
+    },
+    {
+      "exchange": "HL",
+      "coin": "JTO",
+      "funding_hourly": 2.1607e-06,
+      "funding_annualized_pct": 1.89,
+      "premium": -0.000599,
+      "open_interest": 10645170.0,
+      "mark": 0.57347
+    },
+    {
+      "exchange": "HL",
+      "coin": "AIXBT",
+      "funding_hourly": -1.6829e-06,
+      "funding_annualized_pct": -1.47,
+      "premium": -0.000796,
+      "open_interest": 28226344.0,
+      "mark": 0.017564
+    },
+    {
+      "exchange": "HL",
+      "coin": "FIL",
+      "funding_hourly": -1.5396e-06,
+      "funding_annualized_pct": -1.35,
+      "premium": -0.000611,
+      "open_interest": 3023308.4,
+      "mark": 0.67053
     },
     {
       "exchange": "HL",
       "coin": "TRX",
-      "funding_hourly": -6.33e-08,
-      "funding_annualized_pct": -0.06,
-      "premium": -0.000621,
-      "open_interest": 40421206.0,
-      "mark": 0.33141
-    },
-    {
-      "exchange": "HL",
-      "coin": "TRUMP",
-      "funding_hourly": 1.63e-08,
-      "funding_annualized_pct": 0.01,
-      "premium": -0.000416,
-      "open_interest": 4866671.2,
-      "mark": 1.3948
-    },
-    {
-      "exchange": "HL",
-      "coin": "CC",
-      "funding_hourly": -1.51e-08,
-      "funding_annualized_pct": -0.01,
-      "premium": -0.000278,
-      "open_interest": 31681942.0,
-      "mark": 0.089989
+      "funding_hourly": 1.371e-06,
+      "funding_annualized_pct": 1.2,
+      "premium": -0.000513,
+      "open_interest": 40479106.0,
+      "mark": 0.33118
     }
   ]
 }
