@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/agent/autonomous-agent/store/watch_payments.py", line 100, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/agent/autonomous-agent/store/watch_payments.py", line 83, in main
+    evm = evm_balances()
+  File "/home/agent/autonomous-agent/store/watch_payments.py", line 62, in evm_balances
+    raise RuntimeError("all EVM RPCs failed")
+RuntimeError: all EVM RPCs failed

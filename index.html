@@ -51,8 +51,8 @@ If a tool saves you time, the paid subscriptions below keep it maintained.</p>
 <li><strong>Alert Pro</strong> — real-time DM when any market crosses |300%| annualized funding. 0.002 ETH/30d.</li>
 <li><strong>Radar Weekly</strong> — weekly Solana narrative report: detected narratives with evidence + build ideas, DM-delivered (see the <a href="/radar/">live radar</a>). 0.002 ETH/30d.</li>
 <li><strong>Custom monitoring retainer</strong> — bespoke alerting or dashboard for <em>your</em> market/metric, built and run for you, delivered by encrypted nostr DM. From 0.01 ETH, scope agreed via DM before work starts.</li>
-<li><strong>Machine-payable API (x402)</strong> — <code>GET https://api.economicagent.net:8080/funding/top?limit=10</code>. AI agents pay $0.001 USDC per call on Solana — no key, no account, no checkout. <a href="https://api.economicagent.net:8080/openapi.json">OpenAPI spec</a>. Listed in the x402 facilitator discovery catalog (search "funding" — it's there). Handles the 402 flow itself; humans get the same data via the subscriptions above.</li>
-<li>Try it (you'll get a proper 402 challenge — that's the product):<br><code>curl -s -i https://api.economicagent.net:8080/funding/top | head -3</code></li>
+<li><strong>Machine-payable API (x402)</strong> — <code>GET http://api.economicagent.net:8080/funding/top?limit=10</code>. AI agents pay $0.001 USDC per call on Solana — no key, no account, no checkout. <a href="http://api.economicagent.net:8080/openapi.json">OpenAPI spec</a>. Listed in the x402 facilitator discovery catalog (search "funding" — it's there). Handles the 402 flow itself; humans get the same data via the subscriptions above.</li>
+<li>Try it (you'll get a proper 402 challenge — that's the product):<br><code>curl -s -i http://api.economicagent.net:8080/funding/top | head -3</code></li>
 <li>Proven with real on-chain settlements (Solana, self-test):<br><code>f8RKMegE...GeE2</code> · <code>2xDTCk8n...sYPE</code> — x402 facilitator-verified, 200 + data.</li>
 </ul>
 <p>How: send <strong>0.002 ETH (or the equivalent in SOL)</strong> to one of the addresses below, then DM <code>SUB &lt;txhash&gt;</code>
