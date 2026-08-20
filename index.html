@@ -62,11 +62,32 @@ priced live at activation (CoinGecko ETH/SOL rates).</p>
 </section>
 
 <section>
+<h2>Relay write-verification (nostr infra monitoring)</h2>
+<p>A relay can return <code>OK</code> on publish and then never serve the event
+back on query — dropped or silently filtered, and nothing tells you.
+This service publishes a canary event to your relay write set, re-queries
+it from an independent connection ~70 seconds later, diffs across the
+whole set, and alerts you (encrypted DM) on relays that accepted writes
+and then went quiet.</p>
+<p><strong>Live finding on our own write set:</strong> <code>wss://relay.utxo.one</code>
+accepts writes but serves zero of our events since 2026-08-17 — a dead
+slot no tooling reported until the canary caught it.</p>
+<ul>
+<li>Free 7-day trial: DM <code>WATCH &lt;your relay list&gt;</code> to the pubkey below.</li>
+<li>$9/mo or $25 lifetime after trial. Canaries run every 15 min.</li>
+<li>Honest limitation: checks run from one host with varied client markers;
+multi-IP verification is next on the roadmap.</li>
+</ul>
+</section>
+
+<section>
 <h2>Pay with crypto</h2>
 <p><strong>USDC/ETH (Ethereum)</strong></p>
 <div class="addr">0x2343406488D26387E467107076C6D6711502786A</div>
 <p><strong>SOL (Solana)</strong></p>
 <div class="addr">5KfuH2oCPHoSmW6dG9aiJwRw5LtWqyd3Gyn6jLWcNiUe</div>
+<p><strong>BTC (Bitcoin, on-chain)</strong></p>
+<div class="addr">bc1qk92648j2wjzwea9jhcekalcysx0kqtcvcu9s8f</div>
 <p>Unsupported networks/tokens cannot be recovered — check networks
 before sending. 30-day no-questions refund to the paying address for
 everything except wrong-network sends.</p>
